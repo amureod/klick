@@ -34,11 +34,3 @@ function klik(){
 }
 
 document.getElementById("btn").addEventListener('click', klik);
-
-/* In real time CPS, doesnt work
-var time6 = setInterval(timer6, 1000);
-                function timer6(){
-                for (let x=1; x<10; x++){
-                    document.getElementById("cps").innerHTML = ("CPS : " + String(y/x))
-                }
-*/
