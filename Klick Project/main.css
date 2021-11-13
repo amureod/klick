@@ -1,0 +1,57 @@
+header{
+    color:aliceblue;
+    font-size: 50px;
+    text-align:center;
+    background-color: cadetblue;
+    margin:20px;
+    border:1px, slateblue;
+    border-radius: 8px;
+}
+
+#cap{
+    text-align: center;
+    font-size: 20px;
+    color:aliceblue;
+}
+#cps{
+    text-align: center;
+    font-size: 16px;
+    color : aliceblue;
+}
+
+body{
+    background-color: steelblue;
+    font-family: 'Roboto Mono', monospace;
+}
+
+#btn{
+    background-color: rgb(163, 195, 255);
+    width: 525px;
+    height: 225px;
+    cursor: default;
+    text-align: center;
+    display: inline-block;
+    border-radius: 8px;
+    box-shadow: 0 8px rgb(0, 65, 117);
+    font-size:50px;
+    border-color: rgb(5, 94, 177);
+    margin-left: 30%;
+    font-family: 'Roboto Mono', monospace;
+}
+
+#btn:active{
+    box-shadow: 0 4px rgb(0, 35, 63);
+    transform: translateY(8px);
+
+}
+
+#r{
+    text-align: center;
+    font-size: 20px;
+    color:aliceblue;
+}
+
+#foot{
+    font-size: large;
+    
+}
